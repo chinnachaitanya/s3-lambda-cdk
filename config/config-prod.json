@@ -1,0 +1,5 @@
+{
+    "sourceBucketName": "prod-source-bucket-cc",
+    "destinationBucketName": "prod-destination-bucket-cc"
+  }
+  
